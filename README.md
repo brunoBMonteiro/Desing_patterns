@@ -13,7 +13,7 @@
   
 ( x ) três comportamentais:
  
-  ( x ) 1- State
+  	( x ) 1- State
   
 	( x ) 2– strategy
   
