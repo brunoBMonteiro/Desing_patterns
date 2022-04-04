@@ -22,9 +22,19 @@
   
 ( x ) três estruturais:
 
-	(  ) 1- Decorator
+	( x ) 1- Decorator
   
 	(  ) 2- Adapter
   
 	( x ) 3- Facade   
+
+
+
+<h2>Design patterns References</h2>
+
+Refactor Guru: site Link: https://refactoring.guru/pt-br/design-patterns/what-is-pattern
+
+Decorator: Github repositories:  Link: https://github.com/nayara-student/decorator-pattern-design
+
+DevMedia: site, Facade Link: https://www.devmedia.com.br/como-implementar-pattern-facade-na-nova-plataforma-java-ee/32469
 
