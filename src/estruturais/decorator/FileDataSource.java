@@ -2,6 +2,12 @@ package estruturais.decorator;
 
 import java.io.*;
 
+/*
+    ========================Concrete Component===========================
+    O Componente Concreto é uma classe de objetos sendo envolvidos.
+    Ela define o comportamento básico, que pode ser alterado por decoradores.
+ */
+
 public class FileDataSource implements DataSource {
     private String name;
 
