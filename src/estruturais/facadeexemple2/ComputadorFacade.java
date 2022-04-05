@@ -7,15 +7,17 @@ public class ComputadorFacade {
     private DiscoRigido discoRigido;
 
 
-    public ComputadorFacade(){
-        this.unidadeCentralDeProcessamento = new UnidadeCentralDeProcessamento();
-        this.memoria = new Memoria();
-        this.discoRigido = new DiscoRigido();
+    public ComputadorFacade(UnidadeCentralDeProcessamento unidadeCentralDeProcessamento, Memoria memoria,
+                            DiscoRigido discoRigido){
+        this.unidadeCentralDeProcessamento = unidadeCentralDeProcessamento;
+        this.memoria = memoria;
+        this.discoRigido = discoRigido;
     }
 
+
     public void run(){
-        unidadeCentralDeProcessamento.processaDado();
-        memoria.carregaDado();
-        discoRigido.leDado();
+        this.unidadeCentralDeProcessamento.processaDado();
+        this.memoria.carregaDado();
+        this.discoRigido.leDado();
     }
 }
