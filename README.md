@@ -18,6 +18,10 @@
 	( x ) 2– strategy
   
 	( x ) 3- template method
+	
+	( x ) 4- Observer
+	
+	(  ) 5- iterator
   
   
 ( x ) três estruturais:
