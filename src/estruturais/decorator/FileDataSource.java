@@ -8,6 +8,8 @@ import java.io.*;
     Ela define o comportamento básico, que pode ser alterado por decoradores.
  */
 
+// onde fica o cpmportamento básico que pode ser alterado
+
 public class FileDataSource implements DataSource {
     private String name;
 

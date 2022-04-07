@@ -8,6 +8,8 @@ package estruturais.decorator;
     delega todas as operações para o objeto envolvido.
  */
 
+// Agregação
+
 public class DataSourceDecorator implements DataSource {
     private DataSource wrappee;
 

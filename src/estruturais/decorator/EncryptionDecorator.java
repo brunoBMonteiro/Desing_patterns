@@ -2,6 +2,8 @@ package estruturais.decorator;
 
 import java.util.Base64;
 
+// Concrete Decorator
+
 public class EncryptionDecorator extends DataSourceDecorator {
 
     public EncryptionDecorator(DataSource source) {

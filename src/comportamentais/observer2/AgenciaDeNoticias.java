@@ -24,4 +24,6 @@ public class AgenciaDeNoticias extends Observable implements Editor {
     public void registrar(Observer observer) {
         canaisComunicacao.add(observer);
     }
+
+
 }
