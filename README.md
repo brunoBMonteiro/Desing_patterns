@@ -42,3 +42,5 @@ Decorator: Github repositories:  Link: https://github.com/nayara-student/decorat
 
 DevMedia: site, Facade Link: https://www.devmedia.com.br/como-implementar-pattern-facade-na-nova-plataforma-java-ee/32469
 
+Tutorials point: Exemplo adapter Site Link: https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
+
