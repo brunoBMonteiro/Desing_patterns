@@ -1,7 +1,6 @@
 package criacionais.prototype;
 
 public class CloneFactory {
-
      /*
         Recebe qualquer subclasse Animal ou Animal e
         faz uma cópia dele e o armazena em seu próprio
@@ -12,7 +11,6 @@ public class CloneFactory {
         cloneFactory não tem ideia do que são esses objetos
         exceto que eles são subclasses de Animal
       */
-
     public Animal getClone(Animal animalSample) {
 
         /*
