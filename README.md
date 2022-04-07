@@ -21,7 +21,7 @@
 	
 	( x ) 4- Observer
 	
-	(  ) 5- iterator
+	( x ) 5- iterator
   
   
 ( x ) três estruturais:
