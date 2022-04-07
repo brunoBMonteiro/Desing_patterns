@@ -21,14 +21,14 @@
 	
 	( x ) 4- Observer
 	
-	(  ) 5- iterator
+	( x ) 5- iterator
   
   
 ( x ) três estruturais:
 
 	( x ) 1- Decorator
   
-	(  ) 2- Adapter
+	( x ) 2- Adapter
   
 	( x ) 3- Facade   
 
